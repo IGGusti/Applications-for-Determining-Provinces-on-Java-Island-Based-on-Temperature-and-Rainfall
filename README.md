@@ -1,4 +1,4 @@
-# Applications-for-Determining-Provinces-on-Java-Island-Based-on-Temperature-and-Rainfall
+# Applications for Determining Provinces on Java Island Based on Temperature and Rainfall
 
 Big Project
 
